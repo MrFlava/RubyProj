@@ -1,3 +1,4 @@
-puts "Cool"
-print "hello"
-print "nice"
+puts "   /|"
+puts "  / |"
+puts " /  |"
+puts "/___|"
