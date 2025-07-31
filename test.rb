@@ -9,4 +9,6 @@ var_age = "123"
 
 puts "he's" + var_name
 puts "he's" + var_age
-print "testgit"
+puts ("testgit" + var_age)
+var_age = "3243423"
+puts ("asdada" + var_age + "yep, this works")
