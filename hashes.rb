@@ -1,7 +1,9 @@
 states = {
-    "Pennsylvania" => "PA",
-    "New York" => "NY",
+    :Pennsylvania => "PA",
+    1 => "NY",
     "Oregon" => "OR" 
 }
 
-puts states["New York"]
+puts states[:Pennsylvania]
+puts states[1]
+puts states["Oregon"]
